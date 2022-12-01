@@ -61,6 +61,7 @@ Estou no ultimo ano de formação de <b>Engenharia de Software</b> pela Unicesum
 ## ⭐️ Hard Skills
 <div align="center">
   <img align="center" alt="M0-Js" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript">
+  <img align="center" alt="M0-Jv" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java">
   <img align="center" alt="M0-React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React">
   <img align="center" alt="M0-HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5">
   <img align="center" alt="M0-CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3">
