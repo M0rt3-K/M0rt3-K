@@ -48,7 +48,7 @@ Estou no ultimo ano de formação de <b>Engenharia de Software</b> pela Unicesum
 
 <b>Hábitos além da programação...</b>
 
-- Jogo Games.
+- Amo games, sou apaixonado por RPG, FPS e Simulação.
 - Tenho certeza de que não vivemos sozinhos no universo.
 - Gosto muito de RPG de mesa.
 - Amo livros didáticos e com informações do mercado financeiro, que te estimule a pensar. Super recomendo alguns dos meus livros favoritos que ajudam a pensar e enxergar a vida de formas diferentes.
